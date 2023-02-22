@@ -1,1 +1,54 @@
 # add code here
+email = "authentic@abc.co.uk"
+name = "authentic"
+console = "playstation"
+age = 98
+price = 98.2
+
+
+#above are two variables
+#one is called email
+#other is called name
+#both contain data
+#print is a function
+#it displays text to the screen
+
+print(email)
+print(name)
+print(console)
+print(age)
+print(price)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

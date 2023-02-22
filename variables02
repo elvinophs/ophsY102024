@@ -1,1 +1,9 @@
 # add code here
+name = str(input("Enter name:"))
+print(name)
+age = int(input("Enter age:"))
+print(age)
+bestcolour = str(input("Fav colour"))
+print(bestcolour)
+music = str(input("best song"))
+print(music)

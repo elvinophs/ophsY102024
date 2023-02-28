@@ -1,0 +1,11 @@
+Team1Name = Memphis Grizzlies
+Team2Name = "Golden State Warriors"
+
+FREETHROW = 1
+TWOPOINTER = 2
+THREEPOINTER = 3
+
+#The game of basketball
+#The points will never change
+#It makes sense to 
+#Define the points in CONSTANTS

@@ -1,0 +1,6 @@
+adjective1 = input("Enter an adjective")
+nationality = input("Enter a nationality")
+person1 = input("Enter a person")
+
+print ("Here is your MAD-LIB")
+print ("This is so knacks")

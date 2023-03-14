@@ -1,0 +1,12 @@
+food = "chicken wings"
+otr = "gimme som"
+
+
+if food == "chicken wings":
+  print("this hittin bruh")
+  print("i need me some more")
+  print(100 * (otr))
+
+
+else:
+  print("this is fliz")

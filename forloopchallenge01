@@ -1,0 +1,3 @@
+name = int(input("Enter your age"))
+for f in range(3):
+  print(name)

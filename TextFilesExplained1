@@ -1,0 +1,6 @@
+print("\nopening the file")
+notepad = open("read_it.txt", "w")
+userlines=input("write something >>> ")
+notepad.write(userlines)
+notepad.close()
+print("\nGo and open read.txt")

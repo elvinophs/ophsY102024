@@ -1,0 +1,6 @@
+print("\nopening the file")
+notepad = open("names.txt", "w")
+userlines="Elvin, E1, Mrauthentic, Authentic, sami"
+notepad.write(userlines)
+notepad.close()
+print("\nGo and open names.txt")
